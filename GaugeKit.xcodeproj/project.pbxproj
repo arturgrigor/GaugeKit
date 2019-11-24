@@ -43,6 +43,7 @@
 		850835531CAE20BE001A0DDB /* UIColor+Blend.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIColor+Blend.swift"; sourceTree = "<group>"; };
 		856D35171CACBE930007D5C6 /* Gauge+Animations.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Gauge+Animations.swift"; sourceTree = "<group>"; };
 		D66F53D8674BBD2D847BDB75 /* GaugeLine.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GaugeLine.swift; sourceTree = "<group>"; };
+		FE410A04238AB6B900BBFAE4 /* GaugeKit.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = GaugeKit.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +68,7 @@
 		1C9404C61B31CF85001BF122 = {
 			isa = PBXGroup;
 			children = (
+				FE410A04238AB6B900BBFAE4 /* GaugeKit.podspec */,
 				1C9404D21B31CF85001BF122 /* GaugeKit */,
 				1C9404DF1B31CF85001BF122 /* GaugeKitTests */,
 				1C9404D11B31CF85001BF122 /* Products */,

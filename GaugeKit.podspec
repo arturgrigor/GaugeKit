@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "GaugeKit"
-  s.version          = "0.4.5"
+  s.version          = "0.5.0"
   s.summary          = "Kit for building custom gauges + easy reproducible Apple's style ring gauges."
   s.description      = "Kit for building custom gauges + easy reproducible Apple's style ring gauges.
                         ## Features
@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
                         "https://raw.githubusercontent.com/skywinder/GaugeKit/master/Images/ib_example_1.gif"]
   s.license          = 'MIT'
   s.author           = { "Petr Korolev" => "sky4winder@gmail.com" }
-  s.source           = { :git => "https://github.com/skywinder/GaugeKit.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/arturgrigor/GaugeKit.git", :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/skywinder'
 
   s.ios.deployment_target = '8.0'
